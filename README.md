@@ -1,39 +1,97 @@
-# :wave: The Basics of GitHub 
+# :wave: Welcome to Per Scholas Desktop & Networking Admin and Support (A+) - Tier 1 Course 
 
 ## 🤓 Course overview and learning outcomes 
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
+The goal of this course is to design, develop, and implement Instructional techniques and tools to support Per Scholas Technical Instructors in delivering high quality, applicable content and instruction that aligns with the market’s and industry’s evolving landscape and requirements. The Per Scholas Instructor development framework, program, and products build on the Instructor’s experience and support each Instructor’s career development goals. 🚀
 
-## :octocat: Git and GitHub
+## :octocat: About the Program
 
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
+The Desktop & Networking Admin and Support program is an advanced full-time training, intended to assist Instructors in maintaining their active A+ certification as well as improve techniques and instructional delivery that supports Per Scholas Learners’ diverse learning styles and aligns with the continuously evolving industry standards and requirements. This program covers an enormous amount of material,  fundamental concepts and modern technologies, but you are given all the resources you need! From active guidance to 1-on-1 feedback sessions, you will have access to guidance and learning opportunitie
 
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
+## :octocat: Curriculum Highlights 
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
+The 14-week Desktop & Networking Admin and Support (A+) course dives deep into the various domains identified within CompTIA’s A+ Core 1 and Core 2 certification, includes more hands-on opportunities within Virtual environments using Operating Systems (OSs) and Network Operating Systems (NOSs) like Windows 10 (various types), Windows 11, Windows Server 2019 (various types), MacOS, Linux (various brands), iOS, Android, and Embedded Systems, network architectural design to ensure secure and appropriate access, hardware installations, configurations, and repairs, software installations, configurations, and repairs, Troubleshooting, and what it takes to design, develop, implement, test, and maintain an efficient Help Desk with multiple tiers. The tech industry is rapidly changing and for that reason, the curriculum is reviewed and updated on a bi-quarterly basis. 
 
-## :octocat: Understanding the GitHub flow 
 
-The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
+### Google Account
 
-### Repositories
+Per Scholas uses the Google Workspace, which is a collection of cloud computing, productivity and collaboration tools, software and products developed and marketed by Google. It consists of Gmail, Contacts, Calendar, Meet and Chat for communication; Currents for employee engagement; Drive for storage; and the Google Docs Editors suite for content creation. Learners and Instructors can communicate via Google Workspace as well as the Per Scholas Learning Management System (LMS).
 
-A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
+### CANVAS 
 
-### Cloning 
+This is Per Scholas’ Learning Management System (LMS) that provides Learners and Instructors access to course content, software, utility systems, communications between teammates and Instructors as well as manage online course learning materials and communicate about skill development and learning achievement. This environment is where Learners and Instructors login to access courses, assignments, exercises, links to software, receive instructions, respond to discussions, share feedback, check course progress/status, grading, and more.
 
-When a repository is created with GitHub, it’s stored remotely in the ☁️. You can clone a repository to create a local copy on your computer and then use Git to sync the two. This makes it easier to fix issues, add or remove files, and push larger commits. You can also use the editing tool of your choice as opposed to the GitHub UI. Cloning a repository also pulls down all the repository data that GitHub has at that point in time, including all versions of every file and folder for the project! This can be helpful if you experiment with your project and then realize you liked a previous version more. 
-To learn more about cloning, read ["Cloning a Repository"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository). 
+### HYPER-V, VIRTUAL BOX, VMWARE, AND PARALLELS
+**MICROSOFT HYPER-V SERVER** Is a stand-alone product that provides a simplified, reliable, cost-effective, and optimized virtualization solution.
+## 📝Key features:
+* Nested virtualization to create virtual machines with a hypervisor host.
+* Host resources protection to protect Hyper-V resources like the CPU from being 100% occupied by one virtual machine.
+* Virtual disks encrypted with BitLocker for protection from attacks.
+* Production VM Checkpoints with Virtual Switching System (VSS) to create a more data-consistent backup.
+* PowerShell Direct to send commands directly to the guest operating system.
 
-### Committing and pushing
-**Committing** and **pushing** are how you can add the changes you made on your local machine to the remote repository in GitHub. That way your instructor and/or teammates can see your latest work when you’re ready to share it. You can make a commit when you have made changes to your project that you want to “checkpoint.” You can also add a helpful **commit message** to remind yourself or your teammates what work you did (e.g. “Added a README with information about our project”).
+**ORACLE VM VirtualBOX**
+The most popular open source, cross-platform, virtualization software, enables developers to deliver code faster by running multiple operating systems on a single device. IT teams and solution providers use VirtualBox to reduce operational costs and shorten the time needed to securely deploy applications on-premises and to the cloud.
+## 📝Key features:
+* A hypervisor for the host system.
+* A software development kit (SDK) and an application programming interface (API) for administering guest VM operations.
+* A command-line tool for local guest management.
+* A web service that enables users to manage guests remotely.
+* A wizard-style tool for guest management.
+* A console that displays guest applications on the host.
+* A remote desktop protocol (RDP) server enables users to access guests using a remote client.
 
-Once you have a commit or multiple commits that you’re ready to add to your repository, you can use the push command to add those changes to your remote repository. Committing and pushing may feel new at first, but we promise you’ll get used to it 🙂
+**VMware vSphere**
+Is a cloud-based data virtualization platform that helps businesses manage and install virtual machines through a virtual machine manager (VMM) or hypervisor. 
+It also offers features like data consolidation, virtual infrastructure security, and remote support.
+## 📝Key features:
+* Can support up to 96 hosts per cluster.
+* Quickly deploy Kubernetes workloads on existing infrastructure.
+* Can scale infrastructure to meet the demands of high-performance apps. 
+* Easily manage on-premises and cloud provider’s VMware vCenter servers.
+* Offers an intuitive vSphere Client UI to submit and track feature requests.
 
-## 💻 GitHub terms to know 
+**PARALLELS**
+Can run both Windows and Mac applications at the same time on macOS/OS X 10.13 and above. This software optimizes system and hardware resources for a Windows experience that feels like an actual PC, yet on a Mac.
+## 📝Key features:
+* opening websites in a Safari browser 
+* displaying Windows alerts in the Mac Notification Center
+* Files and clipboard content can be dragged between the two operating systems
+* dedicated cloud storage space is included that can be shared across macOS and Windows
 
-### Repositories 
-We mentioned repositories already, they are where your project work happens, but let’s talk a bit more about the details of them! As you work more on GitHub you will have many repositories which may feel confusing at first. Fortunately, your ["GitHub dashboard"](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/about-your-personal-dashboard) helps to easily navigate to your repositories and see useful information about them. Make sure you’re logged in to see it!
+
+## 💻OPERATING SYSTEMS (OS) / NETWORK OPERATING SYSTEMS (NOS)
+
+### Windows Server 2019 ISO 
+Consists of the following editions:
+* Windows Server 2019 Essentials - intended for companies up to and including 25 employees, memory-limited.
+* Windows Server 2019 Standard - intended for companies with more than 25 employees or more than 1 server to separate server roles.
+* Windows Server 2019 Datacenter - is mainly used for placing multiple virtual machines on a physical host.
+## 📝Key features:
+* Container services:
+  - Support for Kubernetes (stable; v1.14)
+  - Support for Tigera Calico (an open-source networking and security solution for containers, virtual machines, and native host-based workloads)
+  - Linux containers on Windows
+* Storage:
+  - Storage Spaces Direct
+   Storage Migration Service
+  - Storage Replica
+  - System Insights
+* Security:
+  - Shielded Virtual Machines
+  - Improved Windows Defender Advanced Threat Protection (ATP)
+* Administration:
+  - Windows Admin Center
+  - SetupDiag (a diagnostic tool that can be used to obtain details about why an upgrade was unsuccessful)
+  - OpenSSH included
+
+
+
+
+
+
+
+
 
 Repositories also contain **README**s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. 😄 
 To learn more about repositories read ["Creating, Cloning, and Archiving Repositories](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and ["About README's"](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
