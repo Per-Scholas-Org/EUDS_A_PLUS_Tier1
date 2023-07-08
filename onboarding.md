@@ -73,4 +73,27 @@ For all the modules and for the course overall, the following table shows the gr
 |      F	          |     < 40%	            |         0%           |
 
 
- 
+As an Per Scholas learner, I have agreed to the following Terms of Services & Conditions(Please read them carefully).
+
+**No account sharing:** I will not share my username and password with anyone. I will contact the Per Scholas staff If I believe my account has been compromised.
+
+**No quiz sharing & cheating:** I will not share graded quizzes and assignments or answers on the discussion forum or any other site, via email, posting, photocopying or any other means and I will not engage in any activities that would dishonestly improve my results or improve or hurt the results of other Per Scholas learners.
+
+**Do my own work & My actions are logged:** I will complete all the graded quizzes and graded assignments and exams by myself, using only my own work. I will not submit the work of any other person or have anyone else submit work under my name and I understand that Per Scholas Team maintains and actively monitors account logs of all my activity.
+
+For any program and academic-related queries, you can always reach out to program and support team.
+
+| **NAME**   | 	**EMAIL**   |	**TITLE**  |
+|------------|--------------|------------|
+| Enter Instructor name | name@perscholas.org  |	Instructor  |
+| Enter Career Coach name | name@perscholas.org  |	Career Coach |
+| Enter Business Solutions name | name@perscholas.org  |	Business Solutions |
+| Enter Director / Manager name | name@perscholas.org  |	Director / Manager  |
+| Enter Student Experience name  | name@perscholas.org  | 	Student Experience  |
+
+##WELCOME! 😃
+* start with a greeting, include your name or your preferred Pronoun
+* lets us know where your from (not mandatory)
+* what is your driver ? ( what is motivating you to take this program)
+* Outcome- where IT industry or Position are you interested in upon completion of this program
+* Respond to someone else's message or like a message that resonates with you ! 
