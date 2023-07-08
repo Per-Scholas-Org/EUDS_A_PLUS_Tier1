@@ -91,7 +91,7 @@ For any program and academic-related queries, you can always reach out to progra
 | Enter Director / Manager name | name@perscholas.org  |	Director / Manager  |
 | Enter Student Experience name  | name@perscholas.org  | 	Student Experience  |
 
-##WELCOME! 😃
+## WELCOME! 😃
 * start with a greeting, include your name or your preferred Pronoun
 * lets us know where your from (not mandatory)
 * what is your driver ? ( what is motivating you to take this program)
