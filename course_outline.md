@@ -13,6 +13,19 @@
 | 2:30 pm - 4:00 pm	  | Tech Instruction (Lecture/Illustrations)    |    |
 | 4:00 pm - 5:00 pm	  | Open Lab   |    |
 
+***Learners have diverse learning styles - Auditory, Visual, Kinesthetic that require diversity within our Instruction/Teaching.***
+
+
+| Class    | Daily | Weekly    |  Total   |
+| :-----------|  :-----: | :------: | ----------: |
+| Technical Instruction | 4 hours | 20 hours   | 240 hours |
+| Career Development / Instructional Lab  | 1.5 hours  | 7.5 hours | 90 hours |
+| Lunch | 1 hour | 5 hours | 70 hours | 
+| Instructional Lab   | 1.5 hours | 7.5 hours | 90 hours |
+| Open Lab   | 1 hour  | 5 hours  | 60 hours   |
+| **EXAM PREP / PROJECT** | (8-hours / day for 2 weeks) | ***End of Core 1 & 2*** | 80 hours |
+| Total  | 8 hours | 40 hours | 620 hours |
+
 
 
 
