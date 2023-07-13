@@ -53,6 +53,25 @@ You can participate in a number of activities and training programs, including h
 | **Review/Project/Exam**   | Learners will attend and participate in daily classroom lectures, labs, exercises, and activities. In addition to passing both A+ 1101 and 1102 exams, learners will be given the final task of identifying and presenting their efficient Help Desk operation - to include how they respond to various incidents, what resources they assign, and actions they take to ensure the organization remains secure and compliant.    <br /><br /> ***Deliverables for the completion of this section include and are not limited to completing all lectures, labs, assignments, passing both CompTIA A+ 220-1101 and 220-1102 exams, and presenting Capstone Project on Day 59.     <br /><br /> CompTIA A+ 220-1102 Exam Study & Completion (Days 51 - 55) in addition to working on Capstone Project (Days 51 - 58).***   | 9   |
 | **Project Weeks**   | Broken into two sections: 220-1101 and 220-1102 with final week of class preparing and presenting Capstone project and Graduation on final day (Day 60) of this 12-week course.   | **Total: 70 days (14 Weeks)**  |
 
+**Total Days** =  69 Instructional days + 1 graduation day.    <br /> **3 hrs.**:  Interactive lectures /tasks/assignments per day.    <br /> **1.5 hrs.**:  Instructional lab (guided/hands-on)    <br /> **1.5 hrs.**:  Career Development/Instructional lab per day (Career Development activities will be integrated within the context of this course to support learning objectives and ensure Learners are able to gain insight into the evolving IT industry.) When Career Development is not scheduled for this timeslot, Learners will work in Teams to complete labs as directed by the Instructor.    <br /> **1 hr.**:  Open Lab per day     <br /> **1 hr.**:  Lunch break and Two 15-minute breaks    <br />
+
+## Outline - CORE 1: A+ (220-1101)
+
+**Pre-Work - Desktop & Networking Admin and Support Fundamentals**
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 0.1    | Learners will be able to:     <br /> - Understand Per Scholas Mission and Policies    <br /> - Understand the requirements of this course     <br /> - Navigate CANVAS     | - CANVAS Onboarding  |
+| 0.2   | Learners will be able to:    <br /> - Understand the basic computer terms    <br /> - Understand hardware basics    <br /> - Navigate their computers   | - GCF Computer Basics     <br /><br /> ***Remove Cisco Getting Connected & Allison Computer Basics (too advanced/confusing to begin.*** |
+| 0.3  | Learners will become familiar with the tool kit and support provided.  | - Home Toolkit / On-Campus Toolkit to include small footprint router, switch, punchdown block, cables, crimping/wire testing, PC/Desktop, laptop for students to use for instruction, repair kit (PC, printers, networking tools) |
+| 0.4 | Learners will be able to:    <br /> - Understand operating systems basics    <br /> - Understand software basics    <br /> - Navigate apps  | - GCF and CANVAS activities  |
+| 0.5   | Learners will be prepared to begin the class on Monday, completing all pre-course requirements.    | - Review CANVAS activities |
+
+**(CORE 1): Mod 1 - Hardware & Virtualization**
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+
 
 
 
