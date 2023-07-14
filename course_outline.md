@@ -61,19 +61,22 @@ You can participate in a number of activities and training programs, including h
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
 | :-------------- | :---------- | :----------- |
-| 0.1    | Learners will be able to:     <br /> - Understand Per Scholas Mission and Policies    <br /> - Understand the requirements of this course     <br /> - Navigate CANVAS     | - CANVAS Onboarding  |
-| 0.2   | Learners will be able to:    <br /> - Understand the basic computer terms    <br /> - Understand hardware basics    <br /> - Navigate their computers   | - GCF Computer Basics     <br /><br /> ***Remove Cisco Getting Connected & Allison Computer Basics (too advanced/confusing to begin.*** |
-| 0.3  | Learners will become familiar with the tool kit and support provided.  | - Home Toolkit / On-Campus Toolkit to include small footprint router, switch, punchdown block, cables, crimping/wire testing, PC/Desktop, laptop for students to use for instruction, repair kit (PC, printers, networking tools) |
-| 0.4 | Learners will be able to:    <br /> - Understand operating systems basics    <br /> - Understand software basics    <br /> - Navigate apps  | - GCF and CANVAS activities  |
-| 0.5   | Learners will be prepared to begin the class on Monday, completing all pre-course requirements.    | - Review CANVAS activities |
+| 0.1    | Learners will be able to:     <br /> * Understand Per Scholas Mission and Policies    <br /> * Understand the requirements of this course     <br /> * Navigate CANVAS     | - CANVAS Onboarding  |
+| 0.2   | Learners will be able to:    <br /> * Understand the basic computer terms    <br /> - Understand hardware basics    <br /> * Navigate their computers   | * GCF Computer Basics     <br /><br /> ***Remove Cisco Getting Connected & Allison Computer Basics (too advanced/confusing to begin.*** |
+| 0.3  | Learners will become familiar with the tool kit and support provided.  | * Home Toolkit / On-Campus Toolkit to include small footprint router, switch, punchdown block, cables, crimping/wire testing, PC/Desktop, laptop for students to use for instruction, repair kit (PC, printers, networking tools) |
+| 0.4 | Learners will be able to:    <br /> * Understand operating systems basics    <br /> * Understand software basics    <br /> * Navigate apps  | * GCF and CANVAS activities  |
+| 0.5   | Learners will be prepared to begin the class on Monday, completing all pre-course requirements.    | * Review CANVAS activities |
 
 **(CORE 1): Mod 1 - Hardware & Virtualization**
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
 | :-------------- | :---------- | :----------- |
-
-
-
-
+| 1.1   | Learners will be able to:    <br /> * Explain cable types and connectors    <br /> * Explain legacy cable types    <br /> * Install the appropriate RAM  | * CANVAS * Cables, Cable Types, Building Desktop PCs     <br /> * Discussions on hardware components and functionality    |
+| 1.2  | Learners will be able to:    <br /> * Select and install storage devices    <br /> * Install and configure motherboards, central processing units (CPUs), and add-in cards  | * Demonstration & discussions of storage devices, requirements, types of storage needed    <br /> * Demonstration / hands-on exercise - installing/configuring motherboards, central processing units (CPUs)  |
+| 1.3   | Learners will be able to:    <br /> * Continue/review installing/configuring motherboards, CPUs    <br /> * Understand Basic Input/Output System (BIOS)/Unified Extensible Firmware Interface (UEFI) settings.   | * Discussions on what is needed with ensuring the appropriate devices and settings are configured (Review BIOS / UEFI settings)    <br /> * Hands-on exercises     <br /> * Building a Gaming PC (Learners follow guided instruction)  |
+| 1.4  | Learners will be able to:    <br /> * Install or replace the appropriate power supply    <br /> * Install and configure system memory    <br /> * Deploy and configure multifunction devices/printers and settings    | * Discussions on appropriate Power Supplies to support computer’s requirements    <br /> * Continue Hands-on exercises (Learners follow guided instruction adding Power Supplies and installing/configuring system memory)    <br /> * Discussion on printers and multifunction devices    |
+| 1.5  | Students will be able to:    <br /> * Build gaming PC and understand components installed, their purpose, and basic installation/configuration techniques    <br /> * Install and replace printer consumables    <br /> * Summarize cloud-computing concepts  | * Complete Gaming PC build: ***Deliverable - TestOut***    <br /> - Presenting **Case Challenge** - printing and MFD issues: ***Deliverable - TestOut***    <br /> * Discussions on Cloud-Computing Concepts and Virtualization    |
+| 2.1  | Students will be able to:    <br /> * Summarize aspects of client-side virtualization    <br /> * Create and configure a virtual environment    <br /> * Review/complete section test    | * Hands-on exercise (Learners follow guided instruction creating local Virtual Server)    <br /> * Hands-on exercise (Learners follow guided instruction on creating Cloud-based Virtual Desktop).   |
+| 2.2  | Students will be able to:    <br /> * Build Virtual Servers on premise    <br /> * Build Virtual Desktops/environments in the Cloud    <br /> * Identify the differences between on-premise, hybrid, and cloud-computing    | * Virtual Environments - hands-on installation/configuration of VMs:     <br />***Deliverable - TestOuts (on-premise Linux Virtual Server and Microsoft Windows 10 Pro Virtual Desktop within Cloud Service Provider)***
 
 
