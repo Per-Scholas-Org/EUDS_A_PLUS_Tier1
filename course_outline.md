@@ -57,7 +57,7 @@ You can participate in a number of activities and training programs, including h
 
 ## Outline - CORE 1: A+ (220-1101)
 
-**Pre-Work - Desktop & Networking Admin and Support Fundamentals**
+### Pre-Work - Desktop & Networking Admin and Support Fundamentals
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
 | :-------------- | :---------- | :----------- |
@@ -67,7 +67,7 @@ You can participate in a number of activities and training programs, including h
 | 0.4 | Learners will be able to:    <br /> * Understand operating systems basics    <br /> * Understand software basics    <br /> * Navigate apps  | * GCF and CANVAS activities  |
 | 0.5   | Learners will be prepared to begin the class on Monday, completing all pre-course requirements.    | * Review CANVAS activities |
 
-**(CORE 1): Mod 1 - Hardware & Virtualization**
+### (CORE 1): Mod 1 - Hardware & Virtualization
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
 | :-------------- | :---------- | :----------- |
@@ -79,7 +79,7 @@ You can participate in a number of activities and training programs, including h
 | 2.1  | Students will be able to:    <br /> * Summarize aspects of client-side virtualization    <br /> * Create and configure a virtual environment    <br /> * Review/complete section test    | * Hands-on exercise (Learners follow guided instruction creating local Virtual Server)    <br /> * Hands-on exercise (Learners follow guided instruction on creating Cloud-based Virtual Desktop).   |
 | 2.2  | Students will be able to:    <br /> * Build Virtual Servers on premise    <br /> * Build Virtual Desktops/environments in the Cloud    <br /> * Identify the differences between on-premise, hybrid, and cloud-computing    | * Virtual Environments - hands-on installation/configuration of VMs:     <br />***Deliverable - TestOuts (on-premise Linux Virtual Server and Microsoft Windows 10 Pro Virtual Desktop within Cloud Service Provider)*** |
 
-**Mod 2 - Networking**
+### Mod 2 - Networking
 
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
@@ -92,6 +92,42 @@ You can participate in a number of activities and training programs, including h
 | 3.3    | Students will be able to:     <br /> * Identify Internet Protocol (IP) Addressing and IP Classes (A, B, C) - private and public addresses     <br /> * Compare and contrast IPv4 and IPv6    <br /> * Compare and contrast static versus dynamic IP addressing    | * Analyze and present the most appropriate, efficient, and secure networking IP addressing/segmentation for the DoD Subcontracting Manufacturing organization (Case Challenge) -  ***Deliverable - TestOut***   |
 | 3.4   | Students will be able to:     <br /> * Compare and contrast common network configuration concepts     <br /> * Understand the specific networks and internet connections and their differences:     <br />     - Internet Connection Types     <br />     - Network Types     <br />     - Networking Tools   | * Case Challenge - review, analyze, design, and present recommendations for organization’s network topology, segmentation requirements, IP addressing schema, and identify potential risks/threats that this recommendation mitigates/proactively protects. - ***Deliverable - TestOut***  |
 | 3.5    | Students will be able to pass the Networking section of the CompTIA Practice Exam.   | * ***Deliverable - Passed Networking Practice Exam***  |
+
+### Mod 3 - Mobile Devices
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 4.1   | Students will be able to:    <br /> * Install and configure the hardware and components of a laptop in a given scenario    <br /> * Understand battery chemistry - which battery types, power requirements, and AC output is required based on laptop make, model, and configurational requirements    <br /> * Wireless Network Interface Cards (W-NICs)    <br /> * Identify and present physical privacy and security components; such as, biometrics, Near-field scanner (NFC) features, sensors, and other wireless security devices.    <br /> * Identify and present types of mobile display units, pros and cons of each, and the popular variants of each.  | * Install/configure and repair or refurbish a laptop based on the organization’s requirements. - ***Deliverable - TestOut***    <br /> * Define, illustrate, and present physical privacy and security components per Case Challenge. - ***Deliverable - TestOut***   |
+| 4.2     | Students will be able to:    <br /> * Identify and present mobile device accessories and ports    <br /> * Identify and illustrate Wireless/Cellular Data networks    <br /> * Pair and configure Bluetooth devices, discussing the requirements on a given bluetooth device as well as understanding the limitations and potential security risks and mitigation options    <br /> *     | * Review, analyze, and illustrate mobile device recommendations per Case Challenge. - ***Deliverable - TestOut***    <br /> * Review, analyze, and configure mobile connectivity methods based on Case Challenge. - ***Deliverable - TestOut***  |
+| 4.3    | Students will be able to:    <br /> * Understand the differences between Global System for Mobile Communication (GSM) and Code-Division Multiple Access (CDMA)    <br /> * Understand location services; such as, Global Positioning Systems (GPS) and Cellular location services    <br /> * Install/configure Mobile Device Management (MDM) / Mobile Application Management (MAM) applications/tools and explain the details of their use as well as the benefits to the organization implementing these tools.    <br /> * Understand and explain Mobile Device Synchronization    | * Review, analyze, and configure MDM/MAM based on Case Challenge. - ***Deliverable - TestOut***    <br /> * Identify and present Mobile Device Synchronization; who are the organizations offering these tools/capabilities, and what would be the critical settings for organizations needing to secure their corporate mobile devices?. - ***Deliverable - TestOut***    |
+| 4.4    | Students will be able to pass the Mobile Devices section of the CompTIA Practice Exam.    | * ***Deliverable - Passed Mobile Devices Practice Exam*** |
+
+### Mod 4 - Printers & Multifunction Devices
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 4.5    | Learners will be able to:    <br /> * Identify, deploy, and configure multi-function devices and printers with the appropriate settings.    <br /> * Identify various makes, models, printer and MFD types and discuss appropriate uses    <br /> * Properly unboxing a device and identify appropriate location considerations for the device    <br /> * Understand appropriate drivers for a given Operating System (OS)    <br /> * Understand the differences between Printer Control Language (PCL) vs. PostScript     * Understand sharing and security of public vs. private devices    <br /> * Setup/configure device(s) and discuss available options and why specific options were chosen    <br /> * Identify printer consumables and which consumables are required for each printer or MFD    | * Review, analyze, and configure Printer/MFD on Case Challenge. - ***Deliverable - TestOut***    <br /> * Illustrate and present various options available to users of MFDs, including feeder and flatbed scanners.  - ***Deliverable - TestOut***    <br /> * Discuss and present printer and MFD consumables and install or replace consumable with appropriate printer or MFD..  - ***Deliverable - TestOut***    | 
+| 5.1  | Students will be able to:     <br /> * Understand Scanners and Barcode readers and the difference between Quick Response (QR) code and barcode.    <br /> * Understand what is needed for connecting the barcode system to Point of Sales System (POS).    | * Discuss and present the most appropriate barcoding and Point of Sales (POS) system for the organization within the ***Case Challenge..  - Deliverable - TestOut***   | 
+| 5.2  | Students will be to:     <br /> * Understand the various types of 3D printers on the market and basic components.    <br /> * What is needed to support organizations using 3D printers    | * Discuss and present the appropriate 3D printer and configuration for the organization identified within the ***Case Challenge..  - Deliverable - TestOut***  |
+
+### Mod 5 - Troubleshooting
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 5.3    | Students will be able to :     <br /> * Understand best practice methodology (Identify the problem, Create a Theory of Probable Cause, Test the theory, Determine the Cause, Create a Plan of Action     | * Discuss and present the most appropriate resolution based on the Case Challenge..  - ***Deliverable - TestOut***   |
+| 5.4   | Students will be able to:      <br /> * Understanding problems with Storage Drives and RAID Displays     <br /> * Understand Common Symptoms     <br /> * How to correct/prevent RAID failure    | * Discuss and present the most appropriate RAID solution based on the Case Challenge..  - ***Deliverable - TestOut***    |
+| 5.5   | Students will be able to:     <br /> * Identify and fix problems with Video, Projectors, and Displays     <br /> * Identify common symptoms   | * Discuss and present the most appropriate Video, Projection, and DIsplays solution  based on the Case Challenge..  - ***Deliverable - TestOut***   |
+| 6.1    | Students will be able to:      <br /> * Identify and fix problems with Mobile Devices     <br /> * Identify common symptoms     <br /> * Identify and fix Printer issues     <br /> * Identify common symptomsIdentify and fix Wired and Wireless Network Problems     <br /> * Identify common symptoms     <br /> * Understand how to handle slow network speeds, high latency, jitter, and other poor quality signals    | * Discuss and present the most appropriate Mobile Device solution based on the Case Challenge..  - ***Deliverable - TestOut***     <br /> * Discuss and present the most appropriate Printer solution based on the ***Case Challenge..  - Deliverable - TestOut***     <br /> * Discuss and present the most appropriate Network Connectivity solution based on the ***Case Challenge..  - Deliverable - TestOut***  |
+
+### Mod 6 - REVIEW: CORE 1 Review & Exam
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+
+
+
+
+
 
 
 
