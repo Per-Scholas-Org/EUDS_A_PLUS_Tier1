@@ -178,6 +178,22 @@ You can participate in a number of activities and training programs, including h
 | 12.4 | Students will be able to:     <br /> * Understand and discuss Prohibited Content / Activity and Privacy, Licensing, and Policy:    <br />     - Incident Response    <br />     - Management and Law Enforcement    <br />     - Documentation requirements    <br /> * Understand and discuss Licensing / Digital Rights Management (DRM) / End-User License Agreement (EULA)  | The TestOut Deliverable for this section will be integrated within the Final Capstone Presentation Learners will be able to use knowledge gained from this section for their final project and presentation.  |
 | 12.5  | Students will be able to:    <br /> * Understand and discuss Regulated Data    <br /> * Understand Communication and Professionalism    <br />* Understand Scripting    <br /> * Understand Remote Access Considerations  | The TestOut Deliverable for this section will be integrated within the Final Capstone Presentation Learners will be able to use knowledge gained from this section for their final project and presentation.  |
 
+### Mod 5 - REVIEW CORE 2 Exam & Project
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 13.1   | Students will be able to:    <br /> * Complete CompTIA A+ Core 2 (220-1102)  Practice Exercises and Exams   | * CompTIA A+ Core 2 (220-1102) Practice Exercises & Exams completed. ***Deliverable - TestOut***  |
+| 13.2  | Students will be able to:     <br /> * Complete CompTIA A+ Core 2 (220-1102)  Practice Exercises and Exams   | * CompTIA A+ Core 2 (220-1102) Practice Exercises & Exams completed. ***Deliverable - TestOut***  |
+| 13.3  | Students will be able to:    <br /> * Complete CompTIA A+ Core 2 (220-1102)  Practice Exercises and Exams   | * CompTIA A+ Core 2 (220-1102) Practice Exercises & Exams completed. ***Deliverable - TestOut***   |
+| 13.4  | INITIAL 220-1102 EXAM TEST DAY    <br /> Students will be able to:     <br /> * Pass the Core 2 Exam    <br /><br /> ***This is the initial 220-1102 exam attempt (if this exam is not passed or learning was unavailable/absent, there will be another 220-1102 exam scheduled for 14.2.***   | * CompTIA A+ Core 2 (220-1102) Certification Exam.   ***Deliverable - TestOut***  | 
+| 13.5 | Students will be able to:     <br /> * Identify basic requirements of Case Challenge for Capstone Final Project and Presentation   | * Initial design/documentation  |
+| 14.1 | Students will be able to:    <br /> * Expand on Case Challenge for Capstone Final Project and Presentation   | * Illustrations / diagrams   |
+| 14.2  | **MAKE-UP  220-1102 EXAM TEST DAY**    <br /><br /> Students will be able to:     <br /> * Expand on Case Challenge for Capstone Final Project and Presentation   | * Submit exam passing acknowledgement notification.    <br /> *Updated documentation   |
+| 14.3  | Students will be able to:    <br /> * Finalize Case Challenge for Capstone Final Project and Presentation - Review, Edit, Correct, Proofread |  Final Edits    <br /> * Compile and format (prepare for final presentation); provide handouts if needed or supporting documentation or illustrations     <br /><br />***(make sure you include References and appropriate Citations)***   |
+| 14.4   | Students will be able to:     <br /> * Discuss and Present Final Capstone Project  | * ***Final Capstone Project & Presentation based on Case Challenge.- Deliverable - TestOut***  |
+| 14.5   | **GRADUATION DAY**  | **GRADUATION DAY**  |
+
+****Case Challenge Examples/Samples to be devloped and delivered with Content.***
 
 
 
