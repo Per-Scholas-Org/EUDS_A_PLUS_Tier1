@@ -123,6 +123,45 @@ You can participate in a number of activities and training programs, including h
 
 | **Week / Day**      |  **Learning Objectives**      |   **Content**    |
 | :-------------- | :---------- | :----------- |
+| 6.2   | **REVIEW START**      <br /> Students will be able to:     <br /> * Demonstrate their understanding of Hardware devices, Software Applications, and Embedded Systems based on discussions and Case Challenges    | * Case Challenges - ***Deliverable - TestOut***    |
+| 6.3    | Students will be able to:     <br /> * Complete Hardware Section of CompTIA A+ 220-1101 certification Practice Exams     | * Complete Hardware section of CompTIA A+ 220-1101 Practice Exams.- ***Deliverable - TestOut***  |
+| 6.4    | Students will be able to:     <br /> * Complete Networking Section of CompTIA A+ 220-1101 certification Practice Exams    | * Complete Networking section of CompTIA A+ 220-1101 Practice Exams.- Deliverable - TestOut     |
+| 6.5   | Students will be able to:      <br /> * Complete Mobile Devices Section of CompTIA A+ 220-1101 certification Practice Exams.   | * Complete Mobile Devices section of CompTIA A+ 220-1101 Practice Exams.- ***Deliverable - TestOut***   |
+| 7.1   | Students will be able to:     <br /> * Complete Printer & MFDs and Troubleshooting Sections of CompTIA A+ 220-1101 certification Practice Exams.    | * Complete Printers & MFDs and Troubleshooting sections of CompTIA A+ 220-1101 Practice Exams.- ***Deliverable - TestOut***  |
+| 7.2   | **INITIAL 220-1101 EXAM TEST DAY**   | Students will be able to:      <br /> * Pass the Core 1 Exam     <br /> ***This is the initial 220-1101 exam attempt (if this exam is not passed or learning was unavailable/absent, there will be another 220-1101 exam scheduled for 7.5.***  | * Submit exam passing acknowledgement notification.   |
+| 7.3  | **REVIEW FOR LEARNERS NEEDING TO SIT FOR MAKE-UP EXAM** |  |
+| 7.4  | **REVIEW FOR LEARNERS NEEDING TO SIT FOR MAKE-UP EXAM** |  |
+| 7.5  | **MAKE-UP  220-1101 EXAM TEST DAY**   | * Submit exam passing acknowledgement notification.  |
+
+### (CORE 2) Mod 1 - Operating Systems
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 8.1    | Students will be able to :    <br /> * Understand the differences between Windows Home, Pro, Pro for Workstations, and Enterprise.    <br /> * Understand the feature differences of Windows (Domain Access vs Workgroup; Desktop Styles/User Interface, Remote Desktop Protocol (RDP), RAM support limitations, BitLocker, gpedit.msc, and Upgrade paths.   | * Identify and present differences between Windows 10 and 11 Home, Pro, Pro for Workstations, and Enterprise.- ***Deliverable - TestOut***    <br /> * Identify and present feature differences of Windows 10 and 11.- ***Deliverable - TestOut***    |
+| 8.2   | Students will be able to:     <br /> * Understand and demonstrate Microsoft Command-Line Tools    <br /> * Understand and demonstrate Task Manager purpose and use   | * Identify  and present Microsoft Command-Line Tools to be used per Case Challenge.- ***Deliverable - TestOut***    <br /> * Demonstrate features and functions of the Task Manager.- ***Deliverable - TestOut***    |
+| 8.3  | Students will be able to:     <br /> * Understand and demonstrate Microsoft Management Console (MMC) Snap-in tools    <br /> * Understand and demonstrate Microsoft Windows 10 Control Panel Utility    | * Demonstrate the use of Microsoft Management Console (MMD) based on the requirements of the Case Challenge.- ***Deliverable - TestOut***   |
+| 8.4   | Students will be able to:    <br /> * Understand and demonstrate Windows Settings    <br /> * Understand and demonstrate Microsoft Windows Networking Features    <br /> * Understand and configure Local OS Firewall Settings    <br /> * Understand and configure Client Network Configuration    <br /> * Establish Network Connections using multiple ways to connect a Windows computer to a local or remote network  | * Based on the Case Challenge, demonstrate what settings are needed, Firewall settings, Client Network configuration, and remote connectivity- ***Deliverable - TestOut***   |
+| 8.5   | Students will be able to:     <br /> * Understand and configure Proxy Settings    <br /> * Understand the differences between a Public Network vs. Private Network    <br /> * Understand and demonstrate File Explorer Navigation - Network Paths    <br /> * Understand and explain Metered Connections and Limitations   | * Explain the purpose of Proxy Settings, the differences between a Public Network vs. a Private Network, and demonstrate File Explorer Navigation to include setting Network Paths based on the Case Challenge.- ***Deliverable - TestOut***   |
+| 9.1   | Students will be able to:    <br /> * Understand and explain System Requirements for Applications    <br /> * Understand and explain OS Requirements for Applications    <br /> * Understand and present Distribution Methods (distributing software installation files)  | * Identify and present System Requirements for Applications and OS requirements based on Case Challenge- ***Deliverable - TestOut***    <br /> * Present Distribution Methods for distributing software installation files and why you would choose a specific methong.- ***Deliverable - TestOut***   |
+| 9.2   | Students will be able to:     <br /> * Understand and present Common OS Types    <br />    - Workstation Operating Systems    <br />     - Cell Phone/Tablet OSs    <br /> * Understand and explain Various File System Types   | * Based on Case Challenge, identify and present Operating System types needed to support the organization’s requirements and why you made those choices.- ***Deliverable - TestOut***   <br /> * Identify and present the various file system types and explain compatibility concerns between operating systems.- ***Deliverable - TestOut***  |
+| 9.3  | Students will be able to:    <br /> * Understand and explain Vendor Life-Cycle Limitations    <br /> * Understand and present Compatibility Concerns Between OSs    <br /> * Understand and demonstrate OS Installations and Upgrades    | * Per Case Challenge, Identify and demonstrate OS installations and upgrades.- ***Deliverable - TestOut***  |
+
+### Mod 2 - Security
+
+| **Week / Day**      |  **Learning Objectives**      |   **Content**    |
+| :-------------- | :---------- | :----------- |
+| 9.4   | Students will be able to:    <br /> * Understand and present security measures, both physical and logical    <br /> * Physical Security - Access Control, Badge Readers, Video Surveillance, Alarm Systems, Motion Sensors, etc.    <br /> * Physical Security for Staff - Key Fobs, Smart Cards, Keys, Biometrics, Lighting, Magnetometers, etc.    <br /> * Logical Security - Least privilege access, ACLs, MFA, Email, Tokens, SMS, etc.   | * Per ***Case Challenge***, Identify and present security measures.- ***Deliverable - TestOut***   |
+| 9.5  | Students will be able to:     <br /> * Understand and configure Mobile Device Management (MDM) systems    <br />     - Securing Mobile and Embedded Devices    <br />      - Remote Wipes    <br />     - Locator Apps    <br />     - OS Updates    <br />     - Device Encryption    <br />     - Remote Backup Apps  | * Per ***Case Challenge***, Identify and demonstrate Mobile Device Management design, configuration, and implementation.- ***Deliverable - TestOut***  |
+| 10.1  | Students will be able to:     <br /> * Understand, design, and implement Active Directory (AD) configurations   | * Per ***Case Challenge***, Identify and demonstrate Active Directory design, configuration, and implementation.- ***Deliverable - TestOut***  |
+| 10.2  | Students will be able to:     <br /> * Understand and present Wireless Security Protocols and Authentication Methods based on an organization's requirements.    <br />     - Protocols and Encryption    <br />     - Authentication  | * Per ***Case Challenge***, Identify and demonstrate Wireless Security Protocols and Authentication Methods.- ***Deliverable - TestOut*** |
+| 10.3  | Students will be able to:     <br /> * Understand and demonstrate Detecting, Removing, and Preventing Malware    <br /> * Identify Malware types    <br /> * Identify Tools and Methods  | * Per ***Case Challenge***, Identify and demonstrate detecting, removing, and preventing malware.- ***Deliverable - TestOut***  |
+| 10.4  | Students will be able to:    <br /> * Understand the differences between setting up security for a Small Office/Home Office (SOHO) Wireless and Wired and other Corporations/Large Organizations    <br /> * Understand and present various requirements for handling Data Destruction and Disposal.  | * Per ***Case Challenge***, Identify and present setting up security for a Small Office/Home Office (SOHO). - ***Deliverable - TestOut***    <br /> * Per ***Case Challenge***, Identify and present setting up security for a Large Organization to include Data Destruction and Disposal. - ***Deliverable - TestOut***
+
+
+
+
+
+
 
 
 
